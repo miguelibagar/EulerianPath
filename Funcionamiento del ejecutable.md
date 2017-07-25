@@ -1,3 +1,5 @@
+# Funcionamiento del archivo `EulerianPath.exe`
+
 El archivo ejecutable `EulerianPath.exe` contiene el buscador de caminos eulerianos
 en un grafo. Su código puede encontrarse en el archivo `EulerianPath.hs` de la carpeta `codigos`.
 Para usarlo deben seguirse las instrucciones descritas en la interfaz.
